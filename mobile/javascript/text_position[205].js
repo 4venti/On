@@ -1,0 +1,1 @@
+﻿positionForPages[205]={page:205,positions:[{word:"T",left:0.271715,top:0.201307,width:0.053409,height:0.079193},{word:"RANSPORTS",left:0.325110,top:0.212914,width:0.411610,height:0.059395},{word:"T",left:0.252251,top:0.313455,width:0.053410,height:0.077934},{word:"RANSPORTES",left:0.305647,top:0.325475,width:0.450536,height:0.058450}]};

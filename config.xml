@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "org.santegidio.on.barcelona"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>On Barcelona</name>
+
+  <description>
+      Menjar, Dormir, Rentar-se - Comunitat de Sant'Egidio 2018
+  </description>
+
+  <author href="http://www.santegidio.org" email="info@santegidio.org">
+      Comunitat de Sant'Egidio
+  </author>
+
+  <icon src="icon.png" />
+  </widget>

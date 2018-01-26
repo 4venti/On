@@ -1,0 +1,1 @@
+﻿positionForPages[226]={page:226,positions:[{word:"Amb el suport de:",left:0.368076,top:0.655547,width:0.241182,height:0.025455}]};

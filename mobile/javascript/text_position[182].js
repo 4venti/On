@@ -1,0 +1,1 @@
+﻿positionForPages[182]={page:182,positions:[{word:"LLEGENDA",left:0.097273,top:0.772838,width:0.153248,height:0.025629},{word:"= Ajut legal / ayuda legal /",left:0.164032,top:0.847946,width:0.332950,height:0.025629},{word:"legal advice",left:0.185052,top:0.872981,width:0.152489,height:0.025629}]};

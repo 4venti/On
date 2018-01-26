@@ -1,0 +1,1 @@
+﻿positionForPages[36]={page:36,positions:[{word:"LLEGENDA",left:0.097273,top:0.801188,width:0.153248,height:0.025628},{word:"= Roba",left:0.175908,top:0.851259,width:0.094213,height:0.025629}]};
