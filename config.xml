@@ -16,6 +16,11 @@
   <author href="http://www.santegidio.org" email="info@santegidio.org">
       Comunitat de Sant'Egidio
   </author>
+  
+
 
   <icon src="icon.png" />
+  <preference name="android-minSdkVersion" value="16" /> 
+  <preference name="android-targetSdkVersion" value="26" /> 
+
   </widget>
