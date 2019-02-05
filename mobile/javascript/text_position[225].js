@@ -1,1 +1,1 @@
-﻿positionForPages[225]={page:225,positions:[{word:"223",left:0.889508,top:0.955935,width:0.048085,height:0.025724},{word:"NOM",left:0.168401,top:0.119666,width:0.087725,height:0.034031},{word:"TEL.",left:0.814135,top:0.119666,width:0.081483,height:0.034031}]};
+﻿positionForPages[225]={page:225,positions:[{word:"223",left:0.852079,top:0.926953,width:0.044056,height:0.018208},{word:"NOM",left:0.191385,top:0.143173,width:0.080375,height:0.023750},{word:"TEL.",left:0.783022,top:0.143173,width:0.074656,height:0.023750}]};

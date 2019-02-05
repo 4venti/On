@@ -1,1 +1,1 @@
-﻿positionForPages[175]={page:175,positions:[{word:"C",left:0.410288,top:0.252657,width:0.063113,height:0.079193},{word:"ASA",left:0.473416,top:0.264264,width:0.138408,height:0.059395}]};
+﻿positionForPages[175]={page:175,positions:[{word:"C",left:0.410288,top:0.252566,width:0.063113,height:0.079253},{word:"ASA",left:0.473416,top:0.264196,width:0.138408,height:0.059439}]};

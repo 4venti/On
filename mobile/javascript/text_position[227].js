@@ -1,1 +1,1 @@
-﻿positionForPages[227]={page:227,positions:[{word:"BARCELONA",left:1.463470,top:0.017281,width:0.266855,height:0.044333},{word:"On",left:1.507202,top:0.032727,width:0.179392,height:0.124687},{word:"50è Aniversari",left:1.907123,top:0.925242,width:0.107418,height:0.103700},{word:"Comunitat de Sant’Egidio",left:1.892965,top:0.981862,width:0.192507,height:0.185845}]};
+﻿positionForPages[227]={page:227,positions:[]};

@@ -1,1 +1,1 @@
-﻿positionForPages[226]={page:226,positions:[{word:"Amb el suport de:",left:0.368076,top:0.655547,width:0.241182,height:0.025455}]};
+﻿positionForPages[226]={page:226,positions:[{word:"224",left:0.069223,top:0.953304,width:0.047920,height:0.025629},{word:"Amb el suport de:",left:0.380564,top:0.655518,width:0.241182,height:0.025474}]};
